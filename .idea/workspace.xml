@@ -23,7 +23,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../test_api/index.php">
+        <entry file="file:///Applications/MAMP/htdocs/test_api/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.7917261">
               <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
@@ -37,23 +37,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/resultat.php" />
-        <option value="$PROJECT_DIR$/test.php" />
-        <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/config.php" />
-        <option value="$PROJECT_DIR$/User.php" />
-        <option value="$PROJECT_DIR$/DbManager.php" />
-        <option value="$PROJECT_DIR$/UserManager.php" />
-        <option value="$PROJECT_DIR$/classes/Manager/DbManager.php" />
-        <option value="$PROJECT_DIR$/Api.php" />
-        <option value="$PROJECT_DIR$/RestClient.php" />
-        <option value="$PROJECT_DIR$/apiServeur.php" />
-        <option value="$PROJECT_DIR$/token.php" />
-        <option value="$PROJECT_DIR$/classes/Manager/UserManager.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/../test_api/index.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/index.html" />
+        <option value="/Applications/MAMP/htdocs/testApi/assets/css/style.css" />
+        <option value="/Applications/MAMP/htdocs/testApi/resultat.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/test.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/.htaccess" />
+        <option value="/Applications/MAMP/htdocs/testApi/config.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/User.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/DbManager.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/UserManager.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/classes/Manager/DbManager.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/Api.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/RestClient.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/apiServeur.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/token.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/classes/Manager/UserManager.php" />
+        <option value="/Applications/MAMP/htdocs/testApi/index.php" />
+        <option value="/Applications/MAMP/htdocs/test_api/index.php" />
       </list>
     </option>
   </component>
@@ -103,12 +103,6 @@
               <option name="myItemId" value="test_api" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test_api" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -124,18 +118,18 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="/Applications/MAMP/htdocs/testApi" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/classes/Manager" />
-      <recent name="$PROJECT_DIR$/classes/Entity" />
-      <recent name="$PROJECT_DIR$/includes" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="/Applications/MAMP/htdocs/testApi/classes/Manager" />
+      <recent name="/Applications/MAMP/htdocs/testApi/classes/Entity" />
+      <recent name="/Applications/MAMP/htdocs/testApi/includes" />
+      <recent name="/Applications/MAMP/htdocs/testApi" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+      <recent name="/Applications/MAMP/htdocs/testApi" />
     </key>
   </component>
   <component name="RunManager">
@@ -228,7 +222,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../test_api/index.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
@@ -236,7 +230,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/classes/Manager/UserManager.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/classes/Manager/UserManager.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -252,7 +246,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/RestClient.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/RestClient.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
@@ -260,7 +254,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/apiServeur.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/apiServeur.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
@@ -268,7 +262,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/index.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
@@ -276,7 +270,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/RestClient.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/RestClient.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
@@ -284,7 +278,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/apiServeur.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/apiServeur.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -292,7 +286,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/.htaccess">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
@@ -300,7 +294,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/index.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
@@ -308,7 +302,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/RestClient.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/RestClient.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
@@ -316,7 +310,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/apiServeur.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/apiServeur.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -324,14 +318,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/assets/css/style.css">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/index.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -339,7 +333,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/RestClient.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/RestClient.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
@@ -347,7 +341,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/apiServeur.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/apiServeur.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -355,21 +349,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/assets/css/style.css">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/assets/css/style.css">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/classes/Manager/DbManager.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/classes/Manager/DbManager.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06419401">
           <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
@@ -377,14 +371,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/composer.json">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/classes/Entity/User.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/classes/Entity/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.021398002">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
@@ -392,7 +386,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/includes/config.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/includes/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10699002">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
@@ -400,7 +394,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/classes/Manager/UserManager.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/classes/Manager/UserManager.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.021398002">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
@@ -416,7 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/RestClient.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/RestClient.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.87731814">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
@@ -424,7 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/apiServeur.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/apiServeur.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7061341">
           <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
@@ -432,7 +426,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/.htaccess">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.04137931">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
@@ -440,7 +434,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/includes/autoload.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/includes/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -448,7 +442,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_api/index.php">
+    <entry file="file:///Applications/MAMP/htdocs/test_api/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7917261">
           <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
